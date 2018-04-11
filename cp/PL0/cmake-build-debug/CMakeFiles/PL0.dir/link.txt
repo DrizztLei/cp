@@ -1,1 +1,0 @@
-/usr/bin/c++  -w -fpermissive -lpthread -Wwrite-strings -fpermissive  -g   CMakeFiles/PL0.dir/main.cpp.o CMakeFiles/PL0.dir/buffer_manager.cpp.o  -o PL0 /usr/lib/libboost_filesystem-mt.so /usr/lib/libboost_system-mt.so /usr/lib/libboost_thread-mt.so /usr/lib/libboost_chrono-mt.so /usr/lib/libboost_date_time-mt.so /usr/lib/libboost_atomic-mt.so 
