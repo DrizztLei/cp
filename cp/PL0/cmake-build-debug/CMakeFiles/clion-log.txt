@@ -1,0 +1,20 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/elvis/work/cp/PL0
+-- Boost version: 1.65.0
+-- Found the following Boost libraries:
+--   filesystem
+--   system
+--   thread
+--   chrono
+--   date_time
+--   atomic
+-- boost searched
+-- cmake cxx flags -w -fpermissive -lpthread -Wwrite-strings -fpermissive 
+-- compile for gnu
+-- add compile option -std=c++11
+-- add compile option -fpermissive
+-- add compile option -lboost_system
+-- add compile option -lpthread
+-- configure in windows
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/elvis/work/cp/PL0/cmake-build-debug

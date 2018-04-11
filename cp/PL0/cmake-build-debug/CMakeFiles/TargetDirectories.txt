@@ -1,0 +1,3 @@
+/home/elvis/work/cp/PL0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/elvis/work/cp/PL0/cmake-build-debug/CMakeFiles/PL0.dir
+/home/elvis/work/cp/PL0/cmake-build-debug/CMakeFiles/edit_cache.dir

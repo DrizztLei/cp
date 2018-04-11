@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PL0"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/elvis/work/cp/PL0/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/elvis/work/cp/PL0/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/elvis/work/cp/PL0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/elvis/work/cp/PL0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/elvis/work/cp/PL0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/elvis/work/cp/PL0/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/elvis/work/cp/PL0/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/elvis/work/cp/PL0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/elvis/work/cp/PL0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/elvis/work/cp/PL0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PL0">
+				<Option output="/home/elvis/work/cp/PL0/cmake-build-debug/PL0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/elvis/work/cp/PL0/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="."/>
+					<Add directory="/usr/include/python2.7/"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.4.0/include/g++-v6"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.4.0/include/g++-v6/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.4.0/include/g++-v6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.4.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.4.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/elvis/work/cp/PL0/cmake-build-debug/Makefile&quot;  VERBOSE=1 PL0"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/elvis/work/cp/PL0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/elvis/work/cp/PL0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/elvis/work/cp/PL0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PL0/fast">
+				<Option output="/home/elvis/work/cp/PL0/cmake-build-debug/PL0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/elvis/work/cp/PL0/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="."/>
+					<Add directory="/usr/include/python2.7/"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.4.0/include/g++-v6"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.4.0/include/g++-v6/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.4.0/include/g++-v6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.4.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.4.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/elvis/work/cp/PL0/cmake-build-debug/Makefile&quot;  VERBOSE=1 PL0/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/elvis/work/cp/PL0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/elvis/work/cp/PL0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/elvis/work/cp/PL0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/elvis/work/cp/PL0/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/elvis/work/cp/PL0/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/elvis/work/cp/PL0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/elvis/work/cp/PL0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/elvis/work/cp/PL0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/elvis/work/cp/PL0/buffer_manager.cpp">
+			<Option target="PL0"/>
+		</Unit>
+		<Unit filename="/home/elvis/work/cp/PL0/buffer_manager.h">
+			<Option target="PL0"/>
+		</Unit>
+		<Unit filename="/home/elvis/work/cp/PL0/main.cpp">
+			<Option target="PL0"/>
+		</Unit>
+		<Unit filename="/home/elvis/work/cp/PL0/pl0.c">
+			<Option target="PL0"/>
+		</Unit>
+		<Unit filename="/home/elvis/work/cp/PL0/pl0.h">
+			<Option target="PL0"/>
+		</Unit>
+		<Unit filename="/home/elvis/work/cp/PL0/set.c">
+			<Option target="PL0"/>
+		</Unit>
+		<Unit filename="/home/elvis/work/cp/PL0/set.h">
+			<Option target="PL0"/>
+		</Unit>
+		<Unit filename="/home/elvis/work/cp/PL0/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
